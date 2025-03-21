@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/pavelmihutski/release-please/compare/1.0.0...1.1.0) (2025-03-21)
+
+
+### Features
+
+* add test ([#6](https://github.com/pavelmihutski/release-please/issues/6)) ([a8a1ed5](https://github.com/pavelmihutski/release-please/commit/a8a1ed5baba59e064ed5ae6513d25f82d94cc644))
+
 ## 1.0.0 (2025-03-21)
 
 
